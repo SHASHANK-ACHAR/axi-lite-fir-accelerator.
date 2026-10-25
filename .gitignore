@@ -1,0 +1,20 @@
+# Simulation outputs
+sim/*.vvp
+sim/*.vcd
+sim/*.fst
+
+# Generated reports
+reports/
+
+# Generated physical design results
+results/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# OS/editor files
+.DS_Store
+*.~ 
