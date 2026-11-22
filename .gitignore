@@ -18,3 +18,4 @@ results/
 # OS/editor files
 .DS_Store
 *.~ 
+sim/fir_test
